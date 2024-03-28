@@ -1,4 +1,4 @@
-Milestone 1 - Shoppi (Unit 7)
+Milestone 1 - H4ir (Unit 7)
 
 Description: 
 This application will allow users to order items as they please. Users can search across a wide range of hair care products. As the user picks out the item they want, a series of pages will show; guiding the user to buy the item of their choice and check out in the cart. The cart will allow the user to buy multiple items at one time if they please. Once the user checks out there will be a payment screen where the user will input the necessary details in order for the item to be processed correctly and swiftly. Once all of this is done the user will receive the item that they ordered.
