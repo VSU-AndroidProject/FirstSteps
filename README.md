@@ -1,7 +1,7 @@
 Milestone 1 - Trojan Order (Unit 7)
 
 Description: 
-This application will allow users to search through the interface of the campus post office. This application will allow users to see the progress of their current ordered packages. The user will see an overview of the tracking of their package and will recieve a notification when the package is ready for pickup.
+This application will allow users to search through the interface of the campus post office. This application will allow users to see the progress of their current ordered packages. The user will see an overview of the tracking of their package and will recieve a notification when the package is ready for pickup. If the user selected their package for delivery to their dorm room; it will show preferred delivery time. 
 App Evaluation: 
 Category: Application for Campus Post Office
 Mobile: Our app allows the user to interact with the campus post office on the web using location, and real-time processing.
@@ -26,35 +26,40 @@ Loading Screen: This screen will be the first screen the user sees when they ope
 
 Login Screen: This screen will display text boxes where the user will input their campus email and password. Logging them into their account
 
-Home Screen: This screen will display four cards: "My Packages", "Terms of Use", "My Account", and "Help". The user can click on any of these cards and be taken to other pages.\
+Home Screen: This screen will display four cards: "My Packages", "Terms of Use", "My Account", and "Help". The user can click on any of these cards and be taken to other pages.
 
-My Packagaes Screen: This screen will show 
+About Screen: This screen will display information about Trojan Order
+
+Terms of Use Screen: This screen will display the terms of use of the application.
+
+My Packages Screen: This screen will show a list of the current packages. The user will be able to click on these packages and bring up another screen with a description.
+
+My Packages Description Screen: This is the screen that will show when the user clicks on the package. This screen will give the user the option to select pickup or delivery. If the user selects pick up then the screen will show a QR code. If the user selects delivery anotheer screen will show. 
+
+Delivery Screen: This screen will show if the user selects delivery. It will display where and when the package will be delievered to the students dorm room. 
+
+
 
 
 
 3. Navigation
 Tab Navigation (Tab to Screen)
+Loading Screen
 Home Screen
-Cart Screen
 
 Flow Navigation (Screen to Screen)
+Loading Screen
+    => Login Screen
 Login Screen 
-    =>Home Screen
-    =>Cart Screen
-Items Screens
-    =>Home Screen 
-    =>Cart Screen
-    =>Search Screen
-Search Screen 
-    =>Home Screen
-    =>Bundles Screen
-    =>Items Screen
-    =>Cart Screen 
-    =>Explore Screen 
-Checkout Screen
-    =>Home Screen 
-    =>Cart Screen
-
+    => Home Screen
+Home Screen
+    => My Packages Screen
+    => About Screen
+    => Terms of Use Screen
+My Packages Screen 
+    => Package Descriptions Screen
+Package Descriptions Screen
+    => Delivery Screen
 
 Wireframes
 [Add picture of your hand sketched wireframes in this section] 
