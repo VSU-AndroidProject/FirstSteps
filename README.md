@@ -1,42 +1,34 @@
 Milestone 1 - Trojan Order (Unit 7)
 
 Description: 
-This application will allow users to order items as they please. Users can search across a wide range of food. As the user picks out the item they want, a series of pages will show; guiding the user to buy the item of their choice and check out in the cart. The cart will allow the user to buy multiple items at one time if they please. Once the user checks out there will be a payment screen where the user will input the necessary details in order for the item to be processed correctly and swiftly. Once all of this is done the user will receive the item that they ordered.
-
+This application will allow users to search through the interface of the campus post office. This application will allow users to see the progress of their current ordered packages. The user will see an overview of the tracking of their package and will recieve a notification when the package is ready for pickup.
 App Evaluation: 
-Category: Online food ordering/campus delivery
-Mobile: Our app allows the user to interact and purchase items on the web using location, and real-time processing.
-Story: The intention is clear to resemble an online food ordering app with a clear focus on college students.
+Category: Application for Campus Post Office
+Mobile: Our app allows the user to interact with the campus post office on the web using location, and real-time processing.
+Story: The intention is clear to resemble an onlinepost office directory with a clear focus on college students.
 Market: College Students
-Habit: Average user would open this app daily to see new items or deals. The user will not be able to create on the app.
-Scope: This application has a clearly defined purpose as an online source for users to purchase food and or suplies from the bookstore. 
+Habit: Average user would open this app daily to see progress on their packages. The user will not be able to create on the app.
+Scope: This application has a clearly defined purpose as an online source for users to see progress on packages and know when they are ready for pickup
 
 Product Spec
 1. User Features (Required and Optional)
 Required Features:
-Search Bar
 Navigation Bar
-Images of items
-Cart where selected items will be stored
-User Input(Billing, Shipping, Search queries)
+User input(Login portal)
+Updated package information
+Notification when package is ready for pick up
 
 Optional Features: 
-Seperate pages for food items
-Filter on search bar 
-log in portal
+QR code to scan for their package
 
-2. Screen Archetypes: 
+2. Screen Archetypes:
+Loading Screen: This screen will be the first screen the user sees when they open the app. It will display the Trojan Order Logo and two buttons that state "login" and "sign up".
 
-Home Screen: This screen will display when the user opens the app. It will include a search bar, navigation bar, login icon and images of popular items. 
+Login Screen: This screen will display text boxes where the user will input their campus email and password. Logging them into their account
 
+Home Screen: This screen will display four cards: "My Packages", "Terms of Use", "My Account", and "Help". The user can click on any of these cards and be taken to other pages.\
 
-Cart Screen: This screen will show the items that the user has saved or added to their cart. This screen will allow the user to make sure their cart is correct and allow them to adjust freely. It will also display a button guiding the user to check out and purchase their items. 
-
-
-Checkout Screen: This screen will allow the user to input their shipping, billing, and any discount codes they might have. Once the user inputs this information there will be a button that allows the user to check out and order the items. 
-
-
-"Shopping" Screens: These screens will display items based on the users’ search. As an example, if the user searches: "chicken". A page displaying different kinds/types of chicken will be displayed ranging from grilled to fried chicken breast. These shopping screens will also display a search bar and navigation bar allowing the user to change their search and explore other items.
+My Packagaes Screen: This screen will show 
 
 
 
