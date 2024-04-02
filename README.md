@@ -1,15 +1,15 @@
-Milestone 1 - H4ir (Unit 7)
+Milestone 1 - Trojan Order (Unit 7)
 
 Description: 
-This application will allow users to order items as they please. Users can search across a wide range of hair care products. As the user picks out the item they want, a series of pages will show; guiding the user to buy the item of their choice and check out in the cart. The cart will allow the user to buy multiple items at one time if they please. Once the user checks out there will be a payment screen where the user will input the necessary details in order for the item to be processed correctly and swiftly. Once all of this is done the user will receive the item that they ordered.
+This application will allow users to order items as they please. Users can search across a wide range of food. As the user picks out the item they want, a series of pages will show; guiding the user to buy the item of their choice and check out in the cart. The cart will allow the user to buy multiple items at one time if they please. Once the user checks out there will be a payment screen where the user will input the necessary details in order for the item to be processed correctly and swiftly. Once all of this is done the user will receive the item that they ordered.
 
 App Evaluation: 
-Category: Online hair care products
+Category: Online food ordering/campus delivery
 Mobile: Our app allows the user to interact and purchase items on the web using location, and real-time processing.
-Story: The intention is clear to resemble an online shopping app with a clear focus on hair care.
-Market: Most of population (online shoppers)
+Story: The intention is clear to resemble an online food ordering app with a clear focus on college students.
+Market: College Students
 Habit: Average user would open this app daily to see new items or deals. The user will not be able to create on the app.
-Scope: This application has a clearly defined purpose as an online source for users to purchase hair care products and will be completed in a timely manner. 
+Scope: This application has a clearly defined purpose as an online source for users to purchase food and or suplies from the bookstore. 
 
 Product Spec
 1. User Features (Required and Optional)
@@ -21,7 +21,7 @@ Cart where selected items will be stored
 User Input(Billing, Shipping, Search queries)
 
 Optional Features: 
-Seperate pages for products
+Seperate pages for food items
 Filter on search bar 
 log in portal
 
@@ -36,7 +36,7 @@ Cart Screen: This screen will show the items that the user has saved or added to
 Checkout Screen: This screen will allow the user to input their shipping, billing, and any discount codes they might have. Once the user inputs this information there will be a button that allows the user to check out and order the items. 
 
 
-"Shopping" Screens: These screens will display items based on the users’ search. As an example, if the user searches: "shampoo". A page displaying different kinds/types of shampoo will be displayed ranging from men and women to different brands. These shopping screens will also display a search bar and navigation bar allowing the user to change their search and explore other items.
+"Shopping" Screens: These screens will display items based on the users’ search. As an example, if the user searches: "chicken". A page displaying different kinds/types of chicken will be displayed ranging from grilled to fried chicken breast. These shopping screens will also display a search bar and navigation bar allowing the user to change their search and explore other items.
 
 
 
