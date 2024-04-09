@@ -61,12 +61,7 @@ My Packages Screen
 Package Descriptions Screen
     => Delivery Screen
 
-Wireframes
-[Add picture of your hand sketched wireframes in this section] 
 
-
-
-[BONUS] Digital Wireframes & Mockups
 [BONUS] Interactive Prototype
 
 Milestone 2 - Build Sprint 1 (Unit 8)
