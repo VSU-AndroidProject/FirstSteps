@@ -61,6 +61,8 @@ My Packages Screen
 Package Descriptions Screen
     => Delivery Screen
 
+Digital Wireframes:
+https://www.figma.com/file/UUrMMvLuIlEQpYmdIUJ5F4/Figma-basics?type=design&node-id=1669%3A162202&mode=design&t=DnxB6Czpu8seEDpY-1
 
 [BONUS] Interactive Prototype
 
