@@ -69,6 +69,7 @@ https://www.figma.com/file/UUrMMvLuIlEQpYmdIUJ5F4/Figma-basics?type=design&node-
 Milestone 2 - Build Sprint 1 (Unit 8)
 GitHub Project board
 [Add screenshot of your Project Board with three milestones visible in this section] 
+![image](https://github.com/VSU-AndroidProject/Trojan-Order/assets/117668114/ba3431a4-1983-4cc9-9774-74d9ff7a35f5)
 
 Issue cards
 [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] 
