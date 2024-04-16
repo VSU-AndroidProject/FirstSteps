@@ -30,8 +30,6 @@ Home Screen: This screen will display four cards: "My Packages", "Terms of Use",
 
 About Screen: This screen will display information about Trojan Order
 
-Terms of Use Screen: This screen will display the terms of use of the application.
-
 My Packages Screen: This screen will show a list of the current packages. The user will be able to click on these packages and bring up another screen with a description.
 
 My Packages Description Screen: This is the screen that will show when the user clicks on the package. This screen will give the user the option to select pickup or delivery. If the user selects pick up then the screen will show a QR code. If the user selects delivery anotheer screen will show. 
@@ -54,8 +52,7 @@ Login Screen
     => Home Screen
 Home Screen
     => My Packages Screen
-    => About Screen
-    => Terms of Use Screen
+    => Account Screen
 My Packages Screen 
     => Package Descriptions Screen
 Package Descriptions Screen
