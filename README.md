@@ -16,33 +16,28 @@ Required Features:
 Navigation Bar
 User input(Login portal)
 Updated package information
-Notification when package is ready for pick up
 
 Optional Features: 
 QR code to scan for their package
 
 2. Screen Archetypes:
-Loading Screen: This screen will be the first screen the user sees when they open the app. It will display the Trojan Order Logo and two buttons that state "login" and "sign up".
 
 Login Screen: This screen will display text boxes where the user will input their campus email and password. Logging them into their account
 
-Home Screen: This screen will display four cards: "My Packages", "Terms of Use", "My Account", and "Help". The user can click on any of these cards and be taken to other pages.
+Home Screen: This screen will display four cards: "My Packages", "Contact", and "My Account". 
 
-About Screen: This screen will display information about Trojan Order
+Account Screen: Information about the user. The user will input Name, Campus Email, Residence Hall, Room Number
 
 My Packages Screen: This screen will show a list of the current packages. The user will be able to click on these packages and bring up another screen with a description.
 
 My Packages Description Screen: This is the screen that will show when the user clicks on the package. This screen will give the user the option to select pickup or delivery. If the user selects pick up then the screen will show a QR code. If the user selects delivery anotheer screen will show. 
 
-Delivery Screen: This screen will show if the user selects delivery. It will display where and when the package will be delievered to the students dorm room. 
-
-
+Contact Screen: User can  submit a help ticket. User inputs their Name, Email Address, Phone Number, Reason for Contacting
 
 
 
 3. Navigation
 Tab Navigation (Tab to Screen)
-Loading Screen
 Home Screen
 
 Flow Navigation (Screen to Screen)
