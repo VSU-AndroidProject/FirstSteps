@@ -81,14 +81,20 @@ List the issues you completed this sprint
 
 [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
 Giphy Linked above***
+
 Milestone 3 - Build Sprint 2 (Unit 9)
 GitHub Project board
+
 [Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] 
 Screenshot linked above****
+
 Completed user stories
 List the completed user stories from this unit
+
 List any pending user stories / any user stories you decided to cut from the original requirements
 [Add video/gif of your current application that shows build progress] 
 Video linked above****** 
+
 App Demo Video
 Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+linked above***
